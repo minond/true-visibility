@@ -5,7 +5,7 @@
  * Description: Checks if a DOM element is truly visible.
  * Package URL: https://github.com/UseAllFive/true-visibility
  */
-module.exports = function() {
+module.exports = function(elem) {
 
     'use strict';
 
@@ -111,6 +111,6 @@ module.exports = function() {
         return false;
     }
 
-    return _isVisible(this);
+    return _isVisible(elem);
 
 };
