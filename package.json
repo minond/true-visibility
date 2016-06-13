@@ -1,0 +1,19 @@
+{
+  "name": "true-visibility",
+  "version": "1.0.0",
+  "description": "true-visibility ===============",
+  "main": "visibility.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minond/true-visibility.git"
+  },
+  "author": "Jason Farrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minond/true-visibility/issues"
+  },
+  "homepage": "https://github.com/minond/true-visibility#readme"
+}

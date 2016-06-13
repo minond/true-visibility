@@ -5,7 +5,7 @@
  * Description: Checks if a DOM element is truly visible.
  * Package URL: https://github.com/UseAllFive/true-visibility
  */
-Element.prototype.isVisible = function() {
+module.exports = function() {
 
     'use strict';
 
